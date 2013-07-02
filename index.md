@@ -1,6 +1,6 @@
 Daniel, Dao Quang Minh
 ======================
-Phone:    +6582106104     
+Phone:    +6586136911
 Email:    <dqminh89@gmail.com>    
 Website:  [Github](http://github.com/dqminh *Github*)       
 
@@ -11,23 +11,19 @@ Education
 
 Work Experience
 ===============
-* [Google](http://www.google-melange.com/gsoc/project/google/gsoc2009/dqminh/3001) (05-2009 - 08-2009)   
-  Student Intern  
-  Google Summer of Code Student working for Limesurvey. During the 3-months
-  program, I have designed and implemented the statistics module and the survey
-  module for Limesurvey 2.0 which is a completed rebuilt version. The system is
-  based on CakePHP.
-
-* [FlickEvents](www.flickevents.com *FlickEvents*) (06-2010 - 09/2011)  
-  Software Engineer  
-  Lead engineer for an online event platform. In charge of the main site
-  development as well as a few side projects.  Migrated the full site from
-  CakePHP to Flask. Built the prototype RFID checkin device using Arduino,
-  NodeJS and Tornado.
-
-* [Viki](www.viki.com) (09/2011 - Now)
+* [Nitrous.IO](www.nitrous.io) (11/2012 - Now)
+  Engineer
+  I write and compile code.
+ 
+* [Viki](www.viki.com) (09/2011 - 10-2012)
   Engineer
   I make things mostly work.
+
+* [FlickEvents](www.flickevents.com *FlickEvents*) (06-2010 - 09/2011)  
+  Engineer
+
+* [Google](http://www.google-melange.com/gsoc/project/google/gsoc2009/dqminh/3001) (05-2009 - 08-2009)   
+  Summer of Code Student Intern  
 
 Projects
 ========

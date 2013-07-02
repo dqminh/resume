@@ -11,16 +11,14 @@ Education
 
 Work Experience
 ===============
-* [Nitrous.IO](www.nitrous.io) (11/2012 - Now)
-  Engineer
+* [Nitrous.IO](www.nitrous.io *Nitrous.io*) (11/2012 - Now)  
   I write and compile code.
  
-* [Viki](www.viki.com) (09/2011 - 10-2012)
-  Engineer
+* [Viki](www.viki.com *Viki*) (09/2011 - 10/2012)
   I make things mostly work.
 
-* [FlickEvents](www.flickevents.com *FlickEvents*) (06-2010 - 09/2011)  
-  Engineer
+* [FlickEvents](www.flickevents.com *FlickEvents*) (06-2010 - 09/2011)    
+  My first python code is written here
 
 * [Google](http://www.google-melange.com/gsoc/project/google/gsoc2009/dqminh/3001) (05-2009 - 08-2009)   
   Summer of Code Student Intern  
